@@ -14,22 +14,22 @@ $(document).ready(function(){
  
   
   $(".header-list").click(function(){
-       $(".header-list").html("<b>ikite2021@gmail.com</b>");
+       $(".header-list").html("<b>walkerjpjp@gmail.com</b>");
 
 });
 
   $("#teck").hover(
     function(){
-   $("#teck").text(" >>>>>Welcome");
+   $("#teck").text(" >>>>>Welcome!!!!!");
  },function(){
     $("#teck").text(" by Teck-Teck World");
  });
 
  $("h2").hover(
    function(){
-  $("h2").html("あなたは決して一人ぼっちではありません<br>話を聞かせてください");
+  $("h2").html("SNS,webでの宣伝も致します");
 },function(){
-   $("h2").html("もしあなたが自殺を考えたらあなたの身の回りには多くの相談窓口があります<br>そこに相談しましょう");
+   $("h2").html("あなたのお気に入りのwebページを作ります");
 });
 
 $("#btn1").hover(
@@ -47,7 +47,7 @@ $("#btn2").hover(
 });
 
     $("#T1").click(function(){
-        $("#T1").text("ゆっくり、ゆっくり、、、");
+        $("#T1").text("2021年３月まで");
     });
     
     
