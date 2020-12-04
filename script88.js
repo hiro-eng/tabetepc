@@ -25,6 +25,15 @@ $(document).ready(function(){
     $("#teck").text(" by Teck-Teck World");
  });
 
+      $("#bbb").hover(
+   function(){
+  $("#bbb").text("CLICK!");
+},function(){
+   $("").text(">>>詳細へ");
+});
+    
+    
+    
  $("h1").hover(
    function(){
   $("h1").html("TABETE").css("color","darkorange");
