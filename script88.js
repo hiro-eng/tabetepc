@@ -29,9 +29,17 @@ $(document).ready(function(){
    function(){
   $("h1").html("TABETE").css("color","darkorange");
 },function(){
-   $("h1").html("無料にてお店のホームページを作ります");
+   $("h1").html("無料にてお店のホームページを作ります").css("color","black");
 });
 
+     $("h1").hover(
+   function(){
+  $("h3").html("MENU").css("color","darkorange");
+},function(){
+   $("h").html("メニュー").css("color","black");
+});
+    
+    
 $("#btn1").hover(
   function(){
  $("#btn1").text("準備中");
