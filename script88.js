@@ -29,7 +29,7 @@ $(document).ready(function(){
    function(){
   $("#bbb").text(">>>CLICK!");
 },function(){
-   $("bbb").text(">>>詳細へ");
+   $("#bbb").text(">>>詳細へ");
 });
     
     
