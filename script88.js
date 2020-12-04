@@ -25,9 +25,9 @@ $(document).ready(function(){
     $("#teck").text(" by Teck-Teck World");
  });
 
- $("h2").hover(
+ $("h1").hover(
    function(){
-  $("h2").html("SNS,webでの宣伝も致します");
+  $("h1").html("TABETE");
 },function(){
    $("h2").html("あなたのお気に入りのwebページを作ります");
 });
