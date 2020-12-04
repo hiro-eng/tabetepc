@@ -27,9 +27,9 @@ $(document).ready(function(){
 
       $("#bbb").hover(
    function(){
-  $("#bbb").text("CLICK!");
+  $("#bbb").text(">>>CLICK!");
 },function(){
-   $("").text(">>>詳細へ");
+   $("bbb").text(">>>詳細へ");
 });
     
     
@@ -41,11 +41,11 @@ $(document).ready(function(){
    $("h1").html("無料にてお店のホームページを作ります").css("color","black");
 });
 
-     $("h1").hover(
+     $("h3").hover(
    function(){
   $("h3").html("MENU").css("color","darkorange");
 },function(){
-   $("h").html("メニュー").css("color","black");
+   $("h3").html("メニュー").css("color","black");
 });
     
     
