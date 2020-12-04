@@ -52,7 +52,9 @@ body{
   text-shadow:orangered 3px 3px 3px;
 }
 
-
+.header a{
+  color:white;
+}
 
 #bbb{
   color:white;
