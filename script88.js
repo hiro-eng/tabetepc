@@ -29,21 +29,21 @@ $(document).ready(function(){
    function(){
   $("h1").html("TABETE");
 },function(){
-   $("h2").html("あなたのお気に入りのwebページを作ります");
+   $("h1").html("無料にてお店のホームページをお作りします");
 });
 
 $("#btn1").hover(
   function(){
  $("#btn1").text("準備中");
 },function(){
-  $("#btn1").text("LINE窓口はこちら");
+  $("#btn1").text("LINEはこちら");
 });
 
 $("#btn2").hover(
   function(){
  $("#btn2").text("CLICK!");
 },function(){
-  $("#btn2").text("twitter窓口はこちら");
+  $("#btn2").text("twitterはこちら");
 });
 
     $("#T1").click(function(){
