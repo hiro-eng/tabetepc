@@ -169,10 +169,11 @@ text-shadow:orangered 3px 3px 3px;
  font-size:large;
 font-weight:bold;
 float:right;
-padding-top:50px;
+padding-top:15px;
 padding-right:15px;
 text-shadow:orangered 3px 3px 3px;
 }
+
 .footer-right a{
   color:white;
 }
