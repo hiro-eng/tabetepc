@@ -27,9 +27,9 @@ $(document).ready(function(){
 
  $("h1").hover(
    function(){
-  $("h1").html("TABETE");
+  $("h1").html("TABETE").css("color","darkorange");
 },function(){
-   $("h1").html("無料にてお店のホームページをお作りします");
+   $("h1").html("無料にてお店のホームページを作ります");
 });
 
 $("#btn1").hover(
