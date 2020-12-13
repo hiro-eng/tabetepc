@@ -22,6 +22,10 @@ body{
     100%{opacity:1}
 }
 
+a:hover{
+  color:darkorange;
+}
+
  a{
  color:black;
    }
