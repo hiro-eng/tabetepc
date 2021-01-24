@@ -31,7 +31,7 @@ $(document).ready(function(){
     
  $("h1").hover(
    function(){
-  $("h1").html("TABETE").css("color","darkorange");
+  $("h1").html("Delizioso!").css("color","darkorange");
 },function(){
    $("h1").html("無料にてお店のホームページを作ります").css("color","black");
 });
@@ -59,7 +59,7 @@ $("#btn2").hover(
 });
 
     $("#T1").click(function(){
-        $("#T1").text("2021年３月まで");
+        $("#T1").text("2021年月まで");
     });
     
     
